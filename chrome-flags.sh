@@ -9,7 +9,7 @@
 # @raycast.icon chrome-icon.svg
 # @raycast.packageName me.timcappalli.raycast.chrome.flags
 
-# @raycast.argument1 { "type": "dropdown", "placeholder": "Version", "data" : [{"title" : "Chrome", "value": "chrome"}, {"title" : "Chrome Beta", "value": "beta"}, {"title" : "Chrome Dev", "value": "dev"}, {"title" : "Chrome Canary", "value": "canary"}], "optional": false}
+# @raycast.argument1 { "type": "dropdown", "placeholder": "Version", "data" : [{"title" : "Stable", "value": "chrome"}, {"title" : "Beta", "value": "beta"}, {"title" : "Dev", "value": "dev"}, {"title" : "Canary", "value": "canary"}], "optional": false}
 # @raycast.argument2 { "type": "dropdown", "placeholder": "Flag", "data" : [{"title" : "All WebAuthn Flags", "value": "allwebauthn"}, {"title" : "WebAuthn Hints", "value": "WebAuthenticationHints"}, {"title" : "WebAuthn Related Origins", "value": "WebAuthenticationRelatedOrigin"}, {"title" : "WebAuthn LargeBlob Extension", "value": "WebAuthenticationLargeBlobExtension"}], "optional": false}
 
 if [ $2 = "allwebauthn" ]; then
