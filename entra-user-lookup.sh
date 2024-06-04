@@ -6,7 +6,7 @@
 # @raycast.mode fullOutput
 
 # Optional parameters:
-# @raycast.icon microsoft-entra-id.svg
+# @raycast.icon icons/microsoft-entra-id.svg
 # @raycast.packageName me.timcappalli.raycast.search.entraid
 
 # Documentation:

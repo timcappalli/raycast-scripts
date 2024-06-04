@@ -6,7 +6,7 @@
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon google-contacts.svg
+# @raycast.icon icons/google-contacts.svg
 # @raycast.argument1 { "type": "text", "placeholder": "name" }
 
 # Documentation:

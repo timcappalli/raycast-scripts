@@ -6,7 +6,7 @@
 # @raycast.mode compact
 #
 # Optional parameters:
-# @raycast.icon Android_Robot.svg
+# @raycast.icon icons/android-robot.svg
 # @raycast.packageName me.timcappalli.raycast.android.mirroring
 
 # @raycast.argument1 { "type": "dropdown", "placeholder": "Mode", "data" : [{"title" : "Mirror + Control", "value": "mc"}, {"title" : "Mirror + Audio", "value": "ma"},{"title" : "Mirror Only", "value": "m"}, {"title" : "Mirror + Control + Audio", "value": "mca"}], "optional": false}

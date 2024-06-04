@@ -6,7 +6,7 @@
 # @raycast.mode compact
 #
 # Optional parameters:
-# @raycast.icon chrome-icon.svg
+# @raycast.icon icons/chrome-icon.svg
 # @raycast.packageName me.timcappalli.raycast.chrome.flags
 
 # @raycast.argument1 { "type": "dropdown", "placeholder": "Version", "data" : [{"title" : "Stable", "value": "chrome"}, {"title" : "Beta", "value": "beta"}, {"title" : "Dev", "value": "dev"}, {"title" : "Canary", "value": "canary"}], "optional": false}
